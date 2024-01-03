@@ -5,4 +5,4 @@ This course is from University of California, Berkeley.
 [https://cs61a.org/](https://cs61a.org/) 
 
 ## Note  
-All the solutions provided for assignments and projects are accurate, and I have additionally furnished solutions for optional problems.
+All my solutions provided for homeworks, labs and projects are accurate, and I have additionally furnished solutions for optional problems.
