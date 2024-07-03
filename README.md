@@ -5,4 +5,4 @@ This course is from University of California, Berkeley.
 [https://inst.eecs.berkeley.edu/~cs61c/fa20/](https://inst.eecs.berkeley.edu/~cs61c/fa20/) 
 
 ## Note  
-In progress.
+This repository houses my solutions to labs and projects for the CS61A Fall23 version. While all solutions successfully passed the local tests, it's important to note that the code may lack optimal robustness and quality.
